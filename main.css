@@ -1,0 +1,17 @@
+.header {
+	font-family: "Times New Roman";
+	font-size: 56px;
+	color: yellow;
+	text-align: center;
+	background-image: url("https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_960_720.jpg");
+	background-size: cover;
+}
+
+.intro {
+	font-family: "Times New Roman";
+	font-size: 20px;
+}
+
+#link1 {
+	font-style: italic;
+}
